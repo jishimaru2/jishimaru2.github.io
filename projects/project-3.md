@@ -1,61 +1,30 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+image: images/p1.jpg
+title: Okage Sama De
+permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2018-05-14
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - Photography
+summary: Celebrating 150 years of the Japanese coming to Hawaii, I entered the JCCH 2018 Photo Contest and awarded honorable mention.  
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+When something piques my interest I consider one of my greatest strengths to be entering a "flow state" or thats what I like to call it. When your dedication towards a craft has 110% of your attention. 
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+I was introduced to photography as a freshmen in highschool and instantly, I fell in love. I loved the idea of capturing images, a moment and telling a story. I put hours into learning composition, lighting, and different editing techniques. 
 
-To give you a flavor of the game, here is an excerpt from one run:
+My photography teacher had told us about the JCCH Photography contest that was coming up and recommended to enter. They wanted us to capture a image that reflected upon the 150 years of Japanese in Hawaii in one image. As a Japanese myself the one place that I thought of was the Izumo Taishakyo temple. This place was very special to me as every year me and my family would go here to pray for our well being and safety for the rest of the year. So I felt that it was only right for it to be here. For the image I took I wanted it to have a film-ish look similar to how it would of been taken 100+ years ago.
 
-<hr>
+With this I received an honorable mention and some money which went back into my hobby for photography to buy my a camera. 
 
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
 
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
+<img class="ui medium right floated rounded image" src="../images/p2.jpeg">
+<img class="ui medium right floated rounded image" src="../images/p3.jpeg">
+<img class="ui medium right floated rounded image" src="../images/p4.jpeg">
+<img class="ui medium right floated rounded image" src="../images/p7.jpeg">
+<img class="ui medium right floated rounded image" src="../images/p5.jpeg">
+<img class="ui medium right floated rounded image" src="../images/p6.jpeg">
 
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
 
