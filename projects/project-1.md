@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/Project3.png
 title: Bossfight
-permalink: projects/bossfight
+permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
 date: 2019-12-08
 labels:
