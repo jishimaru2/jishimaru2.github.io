@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/p33.jpeg
 title: Vamos!
-permalink: projects/vacay
+permalink: projects/soccer
 # All dates must be YYYY-MM-DD format!
 date: 2014-06-12
 labels:
