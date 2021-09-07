@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/p1.jpg
 title: Okage Sama De
-permalink: projects/vacay
+permalink: projects/photography
 # All dates must be YYYY-MM-DD format!
 date: 2018-05-14
 labels:
