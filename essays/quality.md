@@ -23,6 +23,8 @@ Header: What is the output of the following line of code?
 
 Here is an example of a question being asked in a [“smart way”](https://stackoverflow.com/questions/61249732/null-values-for-referential-constraints-unique-constraint-columns-in-informati).
 
+<img class ="ui medium right floated rounded image" src="../images/SO1y.png">
+<img class ="ui medium right floated rounded image" src="../images/SO1x.png">
 
 This developer asks a question in a “smart way”, with glance we can see that this question contains the specified area which pertains to the problem as well as its expected behavior. In their body of text, the question can be seen clearly as it is bolded for others to see. The developer of this question also provides details in code. Because of these qualities the developer receives a quality answer. We can see that in the replies to this question the answers provide a summary of the problem, code, bolded answer key, and other solutions.    
 
@@ -30,6 +32,8 @@ This developer asks a question in a “smart way”, with glance we can see that
 ###### Asking a question in a “not smart way”        
 
 Here is an example of a question being asked in a [“not smart way”](https://stackoverflow.com/questions/46439153/what-is-the-output-of-the-following-line-of-code).
+
+<img class ="ui medium right floated rounded image" src="../images/SO2.png">
 
 As we can see this developer is as if asking the members of stack overflow to do the work for them. The developer does not mention the expected behavior in the header. In their body of text, we don’t see a quality question and no details regarding an issue. We can see by the comments made by stack overflow users that they are not contemptuous with this problem.  
 
