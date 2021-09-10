@@ -19,12 +19,12 @@ My photography teacher had told us about the JCCH Photography contest that was c
 
 With this I received an honorable mention and some money which went back into my hobby for photography to buy my a camera. 
 
-
-<img class="ui medium right floated rounded image" src="../images/p2.jpeg">
-<img class="ui medium right floated rounded image" src="../images/p3.jpeg">
-<img class="ui medium right floated rounded image" src="../images/p4.jpeg">
-<img class="ui medium right floated rounded image" src="../images/p7.jpeg">
-<img class="ui medium right floated rounded image" src="../images/p5.jpeg">
-<img class="ui medium right floated rounded image" src="../images/p6.jpeg">
-
+<div class="ui medium right floated rounded image">
+  <img class="ui image" src="../images/p2.jpeg">
+  <img class="ui image" src="../images/p3.jpeg">
+  <img class="ui image" src="../images/p4.jpeg">
+  <img class="ui image" src="../images/p7.jpeg">
+  <img class="ui image" src="../images/p5.jpeg">
+  <img class="ui image" src="../images/p6.jpeg">
+</div>
 
