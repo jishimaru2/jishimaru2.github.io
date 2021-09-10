@@ -22,8 +22,11 @@ In the software engineering space questions arise daily. As of right now there a
 Header: What is the output of the following line of code?
 
 Here is an example of a question being asked in a [“smart way”](https://stackoverflow.com/questions/61249732/null-values-for-referential-constraints-unique-constraint-columns-in-informati).
-<img class ="ui medium right floated rounded image" src="../images/SO1y.png">
-<img class ="ui medium right floated rounded image" src="../images/SO1x.png">
+
+<div class="ui medium right floated rounded image">
+  <img class ="ui image" src="../images/SO1y.png">
+  <img class ="ui image" src="../images/SO1x.png">
+</div>
 
 
 
