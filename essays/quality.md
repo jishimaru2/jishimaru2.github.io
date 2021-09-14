@@ -10,7 +10,7 @@ labels:
   - Questions
 ---
 
-Quality over quantity, I’m sure we’ve all heard this illustrious three word phrase before. This saying resonates with me as it can be used in all aspects of my life. Creating habits, new experiences, even just simply having fun with a friend, as those quality moments will last a longtime. I’ve always believed that being more meaningful and living with intention will better yourself on a day to day. Asking questions is a part of that process, you won’t always understand something and when that happens you don’t want to ask yourself the same questions over and over again. That is why coming up with a “smart” question is so important as it will lead to a more efficient answer. 
+Quality over quantity, I’m sure we’ve all heard this illustrious three word phrase before. This saying resonates with me because it can be used in all aspects of my life. Creating habits, new experiences, even just simply having fun with a friend, as those quality moments will last a longtime. I’ve always believed that being more meaningful and living with intention will better yourself on a day to day. Asking questions is a part of that process, you won’t always understand something and when that happens you don’t want to ask yourself the same questions over and over again. That is why coming up with a “smart” question is so important as it will lead to a more efficient answer. 
 
 # What is a “smart” question
 
