@@ -22,7 +22,11 @@ Coinciding with this we also got to work to recreate a webpage using Semantic UI
 
 ###### Original Website
 
+<img class="ui image item" src="../images/og.png">
+
 ###### Recreation using Semantic UI
+
+<img class="ui image item" src="../images/recreated.png">
 
 ###### Reflecting on Semantic UI
 
