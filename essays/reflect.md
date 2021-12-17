@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Follow a Format!
+title: Looking back at the Journey
 # All dates must be YYYY-MM-DD format!
 date: 2021-12-16
 labels:
