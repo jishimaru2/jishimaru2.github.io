@@ -19,16 +19,16 @@ The Manoa Music application is a website which allows UH Students and community 
 ## Contributions
 I mainly worked on the list profiles page for user and admin with functionality for editing and deletion for the admin side. I also worked on Jam Sessions and Profile Page for each profile.
 
-###### Profiles Page
+#### Profiles Page
 <img class="ui image" src="../images/profile.png">
 
-###### List Profiles Page
+#### List Profiles Page
 <img class="ui image" src="../images/listprofiles.png">
 
-###### List Profiles Page (Admin)
+#### List Profiles Page (Admin)
 <img class="ui image" src="../images/listadmin.png">
 
-###### Jam Sessions
+#### Jam Sessions
 <img class="ui image" src="../images/createjam.png">
 <img class="ui image" src="../images/listjam.png">
 
