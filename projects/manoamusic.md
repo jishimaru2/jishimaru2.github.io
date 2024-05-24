@@ -17,7 +17,7 @@ labels:
 The Manoa Music application is a website which allows UH Students and community members alike to find others with musical talents/interests. Using Javascript, Meteor, Uniforms, and Semantic UI as a group we developed a website that executes this idea. With features such as creating a profile, being able to view other profiles, and creating Jam Sessions to schedule meetings up with other musicians.     
 
 ## Contributions
-I mainly worked on the list profiles page for user and admin with functionality for editing and deletion for the admin side. I also worked on Jam Sessions and Profile Page for each profile.
+I mainly worked on the list profiles page for user and admin with functionality for editing and deletion for the admin side. I also worked on Jam Sessions and Profile Page for each profile. I also contributed heavily to the design and frontend aspect of this application.
 
 #### Profiles Page
 <img class="ui image" src="../images/profile.png">
